@@ -1,2 +1,2 @@
-# zabir-nabil.github.io
-website, blog
+# lab assignment
+profile page
